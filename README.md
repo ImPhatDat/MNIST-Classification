@@ -11,10 +11,10 @@ This repository contains implementations of various machine learning approaches 
 1. **Linear Regression:**
   - Implementation of simple linear regression algorithm (OLS).
   
-3. **Softmax Regression:**
+2. **Softmax Regression:**
   - Implementation of softmax regression algorithm using stochastic gradient descent to classify MNIST digits.
 
-4. **Neural Network:**
+3. **Neural Network:**
   - Basic feedforward neural network with customizable architecture for experimenting with different hidden layer sizes, activation functions, and optimization techniques.
 
 ## Dependencies:
