@@ -23,8 +23,6 @@ This repository contains implementations of various machine learning approaches 
 - NumPy
 - Scikit-learn
 
-Certainly! Here's an additional section to acknowledge your instructors:
-
 ## Acknowledgments:
 
 I would like to express my sincere gratitude to my instructors for their guidance, support, and invaluable feedback throughout the development of this project. Their expertise and encouragement have been instrumental in shaping my understanding of machine learning concepts and refining the implementations of various approaches. Their dedication to teaching and mentorship has greatly contributed to my learning experience and growth as a machine learning practitioner. I am deeply thankful for their commitment and inspiration.
